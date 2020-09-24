@@ -1,0 +1,224 @@
+[Root]
+Most Recent Package=Pac Standard Setup Package
+
+
+[Package|Pac Standard Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\projects\VB\Pac\Package
+
+[Package|Pac Standard Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pac Standard Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pac Standard Setup Package|Files Found]
+
+[Package|Pac Standard Setup Package|Files Released]
+
+[Package|Pac Standard Setup Package|Missing Dependency Information]
+
+[Package|Pac Standard Setup Package|Out-of-Date Dependency Information]
+
+[Package|Pac Standard Setup Package|Files Added]
+d:\projects\vb\pac\pics\ghost0_0_0.bmp=
+d:\projects\vb\pac\pics\ghost0_0_1.bmp=
+d:\projects\vb\pac\pics\ghost0_1_0.bmp=
+d:\projects\vb\pac\pics\ghost0_1_1.bmp=
+d:\projects\vb\pac\pics\ghost0_2_0.bmp=
+d:\projects\vb\pac\pics\ghost0_2_1.bmp=
+d:\projects\vb\pac\pics\ghost0_3_0.bmp=
+d:\projects\vb\pac\pics\ghost0_3_1.bmp=
+d:\projects\vb\pac\pics\ghost1_0_0.bmp=
+d:\projects\vb\pac\pics\ghost1_0_1.bmp=
+d:\projects\vb\pac\pics\ghost1_1_0.bmp=
+d:\projects\vb\pac\pics\ghost1_1_1.bmp=
+d:\projects\vb\pac\pics\ghost1_2_0.bmp=
+d:\projects\vb\pac\pics\ghost1_2_1.bmp=
+d:\projects\vb\pac\pics\ghost1_3_0.bmp=
+d:\projects\vb\pac\pics\ghost1_3_1.bmp=
+d:\projects\vb\pac\pics\pac0_0.bmp=
+d:\projects\vb\pac\pics\pac0_1.bmp=
+d:\projects\vb\pac\pics\pac0_2.bmp=
+d:\projects\vb\pac\pics\pac0_3.bmp=
+d:\projects\vb\pac\pics\pac1_0.bmp=
+d:\projects\vb\pac\pics\pac1_1.bmp=
+d:\projects\vb\pac\pics\pac1_2.bmp=
+d:\projects\vb\pac\pics\pac1_3.bmp=
+d:\projects\vb\pac\pics\scared_0.bmp=
+d:\projects\vb\pac\pics\scared_1.bmp=
+d:\projects\vb\pac\pac.mdb=
+D:\projects\VB\Pac\sounds\eat.wav=
+D:\projects\VB\Pac\sounds\gameover.wav=
+D:\projects\VB\Pac\sounds\gdie.wav=
+D:\projects\VB\Pac\sounds\pdie.wav=
+D:\projects\VB\Pac\sounds\win.wav=
+
+[Package|Pac Standard Setup Package|Files Removed]
+
+[Package|Pac Standard Setup Package|Files In Project]
+D:\projects\VB\Pac\PacWorld.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\projects\VB\Pac\pics\Ghost0_0_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_0_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_1_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_1_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_2_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_2_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_3_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost0_3_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_0_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_0_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_1_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_1_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_2_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_2_1.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_3_0.bmp=Yes
+D:\projects\VB\Pac\pics\Ghost1_3_1.bmp=Yes
+D:\projects\VB\Pac\pics\Pac0_0.bmp=Yes
+D:\projects\VB\Pac\pics\Pac0_1.bmp=Yes
+D:\projects\VB\Pac\pics\Pac0_2.bmp=Yes
+D:\projects\VB\Pac\pics\Pac0_3.bmp=Yes
+D:\projects\VB\Pac\pics\Pac1_0.bmp=Yes
+D:\projects\VB\Pac\pics\Pac1_1.bmp=Yes
+D:\projects\VB\Pac\pics\Pac1_2.bmp=Yes
+D:\projects\VB\Pac\pics\Pac1_3.bmp=Yes
+D:\projects\VB\Pac\pics\Scared_0.bmp=Yes
+D:\projects\VB\Pac\pics\Scared_1.bmp=Yes
+D:\projects\VB\Pac\pac.mdb=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+D:\projects\VB\Pac\PACHELP.HLP=Yes
+D:\projects\VB\Pac\sounds\eat.wav=Yes
+D:\projects\VB\Pac\sounds\gameover.wav=Yes
+D:\projects\VB\Pac\sounds\gdie.wav=Yes
+D:\projects\VB\Pac\sounds\pdie.wav=Yes
+D:\projects\VB\Pac\sounds\win.wav=Yes
+
+[Package|Pac Standard Setup Package|Configure Registry Files]
+Applicable=No
+
+[Package|Pac Standard Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|Pac Standard Setup Package|Install Locations]
+D:\projects\VB\Pac\PacWorld.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\projects\VB\Pac\pics\Ghost0_0_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_0_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_1_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_1_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_2_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_2_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_3_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost0_3_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_0_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_0_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_1_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_1_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_2_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_2_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_3_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Ghost1_3_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac0_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac0_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac0_2.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac0_3.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac1_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac1_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac1_2.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Pac1_3.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Scared_0.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pics\Scared_1.bmp=$(AppPath)\pics
+D:\projects\VB\Pac\pac.mdb=$(AppPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+D:\projects\VB\Pac\PACHELP.HLP=$(AppPath)
+D:\projects\VB\Pac\sounds\eat.wav=$(AppPath)\sounds
+D:\projects\VB\Pac\sounds\gameover.wav=$(AppPath)\sounds
+D:\projects\VB\Pac\sounds\gdie.wav=$(AppPath)\sounds
+D:\projects\VB\Pac\sounds\pdie.wav=$(AppPath)\sounds
+D:\projects\VB\Pac\sounds\win.wav=$(AppPath)\sounds
+
+[Package|Pac Standard Setup Package|Configure Shared Files]
+Applicable=Yes
+D:\projects\VB\Pac\PacWorld.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\projects\VB\Pac\pics\Ghost0_0_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_0_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_1_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_1_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_2_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_2_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_3_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost0_3_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_0_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_0_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_1_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_1_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_2_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_2_1.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_3_0.bmp=No
+D:\projects\VB\Pac\pics\Ghost1_3_1.bmp=No
+D:\projects\VB\Pac\pics\Pac0_0.bmp=No
+D:\projects\VB\Pac\pics\Pac0_1.bmp=No
+D:\projects\VB\Pac\pics\Pac0_2.bmp=No
+D:\projects\VB\Pac\pics\Pac0_3.bmp=No
+D:\projects\VB\Pac\pics\Pac1_0.bmp=No
+D:\projects\VB\Pac\pics\Pac1_1.bmp=No
+D:\projects\VB\Pac\pics\Pac1_2.bmp=No
+D:\projects\VB\Pac\pics\Pac1_3.bmp=No
+D:\projects\VB\Pac\pics\Scared_0.bmp=No
+D:\projects\VB\Pac\pics\Scared_1.bmp=No
+D:\projects\VB\Pac\pac.mdb=No
+D:\projects\VB\Pac\PACHELP.HLP=No
+D:\projects\VB\Pac\sounds\eat.wav=No
+D:\projects\VB\Pac\sounds\gameover.wav=No
+D:\projects\VB\Pac\sounds\gdie.wav=No
+D:\projects\VB\Pac\sounds\pdie.wav=No
+D:\projects\VB\Pac\sounds\win.wav=No
+
+[Package|Pac Standard Setup Package|Distribution]
+Type=single
+Size=
+Title=PacWorld
+
+[Package|Pac Standard Setup Package|Package]
+PackageFolder=D:\projects\VB\Pac\Package
+ProjectFolder=D:\projects\VB\Pac
+ServerSideCab=
+File1=D:\projects\VB\Pac\Package\setup.exe
+File2=D:\projects\VB\Pac\Package\Setup.Lst
+File3=D:\projects\VB\Pac\Package\PacWorld.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pac Standard Setup Package|IconGroups]
+Group0=PacWorld
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Pac Standard Setup Package|PacWorld]
+Icon1=PacWorld.exe
+Title1=PacWorld
+StartIn1=$(AppPath)
+Key1=Icon1
